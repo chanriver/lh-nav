@@ -15,15 +15,17 @@
     "url": "https://github.com/your-username/mao_nav/issues"
   },
   "keywords": [
-    "navigation",
-    "bookmarks",
-    "vue3",
-    "vite",
-    "cloudflare-pages",
-    "personal-website",
-    "导航网站",
-    "书签管理"
-  ],
+  "navigation",
+  "bookmarks",
+  "vue3",
+  "vite",
+  "cloudflare-pages",
+  "personal-website",
+  "导航网站",
+  "书签管理",
+  "环境变量配置",
+  "可定制"
+],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
