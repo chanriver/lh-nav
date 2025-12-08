@@ -194,7 +194,7 @@ npm run dev
 ### 项目结构
 
 
-mao_nav/
+
 ├── src/
 │   ├── apis/           # GitHub API 交互逻辑
 │   ├── assets/         # 静态资源
