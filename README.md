@@ -32,6 +32,20 @@
 - 👨‍💻 **管理界面** - 可选配置管理员界面，支持可视化添加/编辑分类和网站（需要GitHub Token）
 - 🔒 **隐私保护** - 支持开启全站访问密码保护。
 
+## ⚙️ 配置说明 (环境变量)
+
+本项目通过环境变量进行配置，无需修改代码即可定制属于你的导航站。
+
+| 变量名 | 必填 | 说明 | 示例 |
+| :--- | :---: | :--- | :--- |
+| `VITE_ADMIN_PASSWORD` | ✅ | **管理员密钥**。进入 `/admin` 后台或解锁前台（如果开启锁）时使用。 | `mypassword123` |
+| `VITE_GITHUB_TOKEN` | ✅ | **GitHub Token**。用于后台保存数据到仓库。权限要求见下文。 | `ghp_xxxxxx` |
+| `VITE_GITHUB_OWNER` | ⚪ | 你的 GitHub 用户名。如果不填，尝试自动获取。 | `yourname` |
+| `VITE_GITHUB_REPO` | ⚪ | 你的仓库名称。 | `mao_nav` |
+| `VITE_GITHUB_BRANCH` | ⚪ | 数据存储分支。 | `master` 或 `main` |
+| `VITE_SITE_TITLE` | ⚪ | **网站标题**。自定义浏览器标签页和首页显示的名称。 | `我的专属导航` |
+| `VITE_ADMIN_TITLE` | ⚪ | **后台标题**。自定义后台管理界面的标题。 | `控制台` |
+| `VITE_OPEN_LOCK` | ⚪ | **前台锁定**。设为 `true` 时，访问首页也需要输入密码。 | `false` |
 
 ## 🚀 快速开始
 图文教程可访问[猫猫导航图文教程](https://blog.maodeyu.fun/2025/07/16/nav_mao/)
