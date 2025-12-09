@@ -168,6 +168,20 @@ export const mockData = {
           "url": "https://www.helloworld.net/html2md",
           "description": "强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地",
           "icon": "https://www.faviconextractor.com/favicon/www.helloworld.net"
+        },
+        {
+          "id": "site-1765255336022",
+          "name": "美国地址生成器",
+          "url": "https://www.meiguodizhi.com/",
+          "description": "用于生成各国地址",
+          "icon": "https://www.faviconextractor.com/favicon/www.meiguodizhi.com"
+        },
+        {
+          "id": "site-1765255442902",
+          "name": "各国地址生成器",
+          "url": "https://addresschina.github.io/",
+          "description": "用于各国地址的生成",
+          "icon": "https://www.faviconextractor.com/favicon/addresschina.github.io"
         }
       ]
     },
@@ -641,6 +655,21 @@ export const mockData = {
           "url": "https://www.iconfont.cn/home/index",
           "description": "由阿里巴巴矢量图标库提供的一种开放式的矢量图标管理和交流平台，提供了丰富的矢量图标资源和方便的管理和下载服务。",
           "icon": "https://imgbed.361026.dpdns.org/file/1765252745918_iconfont图标.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1765255512557",
+      "icon": "📁",
+      "name": "应用软件",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765255677453",
+          "name": "Puresys纯净系统",
+          "url": "https://www.puresys.net/",
+          "description": "Puresys是一个分享Ghost系统与PC软件资源的博客，致力于免费提供优质的去广告绿色软件、常用的破解优化软件，以及各类经验教程。",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765255647811_Puresys.png"
         }
       ]
     }
