@@ -215,10 +215,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765253264741",
+      "icon": "📁",
+      "name": "云盘",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1765253369125",
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cloud.189.cn"
+        },
+        {
+          "id": "site-1765253403060",
+          "name": "百度云盘",
+          "url": "https://pan.baidu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pan.baidu.com"
+        },
+        {
+          "id": "site-1765253441868",
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pan.quark.cn"
+        },
+        {
+          "id": "site-1765253495452",
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.alipan.com"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -275,7 +311,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "github",
@@ -325,7 +361,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -361,7 +397,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "stackoverflow",
@@ -404,7 +440,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "binance",
@@ -468,7 +504,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "mdn",
@@ -504,7 +540,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "bilibili",
@@ -540,7 +576,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "notion",
@@ -576,7 +612,7 @@ export const mockData = {
       "id": "category-1765250380345",
       "icon": "📁",
       "name": "资源素材",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1765250502160",
