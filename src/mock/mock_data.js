@@ -354,6 +354,27 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1765254886039",
+          "name": "Python 包索引",
+          "url": "https://pypi.com.cn/",
+          "description": "Python 包索引 (PyPI) 是 Python 编程语言的软件存储库",
+          "icon": "https://www.faviconextractor.com/favicon/pypi.com.cn"
+        },
+        {
+          "id": "site-1765254998463",
+          "name": "gitcode",
+          "url": "https://gitcode.com/",
+          "description": "GitCode代码托管平台是一款面向专业开发者的高效云端开发工具。平台集成了先进的代码托管服务，支持全面的版本控制、分支管理和协作开发功能。",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765255127910_gitcode.png"
+        },
+        {
+          "id": "site-1765255256550",
+          "name": "稀土掘金",
+          "url": "https://juejin.cn/",
+          "description": "掘金是一个帮助开发者成长的社区，是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。",
+          "icon": "https://www.faviconextractor.com/favicon/juejin.cn"
         }
       ]
     },
