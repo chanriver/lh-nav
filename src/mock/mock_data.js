@@ -419,6 +419,41 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1765249517557",
+          "name": "itdog",
+          "url": "https://www.itdog.cn/",
+          "description": "本站为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。",
+          "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
+        },
+        {
+          "id": "site-1765249788411",
+          "name": "有道翻译",
+          "url": "https://fanyi.youdao.com/",
+          "description": "有道翻译提供即时免费的中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语全文翻译、网页翻译、文档翻译、PDF翻译、DOC翻译",
+          "icon": "https://www.faviconextractor.com/favicon/fanyi.youdao.com"
+        },
+        {
+          "id": "site-1765249948995",
+          "name": "腾讯QQ浏览器在线工具箱平台",
+          "url": "https://tool.browser.qq.com/",
+          "description": "腾讯QQ浏览器在线工具箱平台，提供证件照生成，表情包制作，PDF转换，文字提取，二维码生成，数据校验、照片修复、插件安装等在线服务",
+          "icon": "https://www.faviconextractor.com/favicon/tool.browser.qq.com"
+        },
+        {
+          "id": "site-1765250057394",
+          "name": "ip38工具站",
+          "url": "https://tool.ip38.com/",
+          "description": "iP38提供一个全面的在线工具集合，专为程序员和开发人员设计。轻松处理JSON、JavaScript、CSS、URL编码、时间戳转换等常见开发任务。",
+          "icon": "https://www.faviconextractor.com/favicon/tool.ip38.com"
+        },
+        {
+          "id": "site-1765250219938",
+          "name": "HTML转 MD",
+          "url": "https://www.helloworld.net/html2md",
+          "description": "强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地",
+          "icon": "https://www.faviconextractor.com/favicon/www.helloworld.net"
         }
       ]
     },
@@ -491,6 +526,21 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1765250380345",
+      "icon": "📁",
+      "name": "资源素材",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765250502160",
+          "name": "阿里巴巴矢量图标库",
+          "url": "https://www.iconfont.cn/home/index",
+          "description": "由阿里巴巴矢量图标库提供的一种开放式的矢量图标管理和交流平台，提供了丰富的矢量图标资源和方便的管理和下载服务。",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765252745918_iconfont图标.png"
         }
       ]
     }
