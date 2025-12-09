@@ -64,6 +64,13 @@ export const mockData = {
           "icon": "/sitelogo/chat.openai.com.ico"
         },
         {
+          "id": "site-1765249340693",
+          "name": "GEMINI",
+          "url": "https://gemini.google.com/",
+          "description": "google的智能助手",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
           "id": "claude",
           "name": "Claude",
           "url": "https://claude.ai",
