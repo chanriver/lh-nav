@@ -850,6 +850,34 @@ export const mockData = {
       "name": "Github&Cloudflare项目",
       "order": 0,
       "sites": []
+    },
+    {
+      "id": "category-1765347501580",
+      "icon": "📁",
+      "name": "大佬博客",
+      "order": 19,
+      "sites": []
+    },
+    {
+      "id": "category-1765347602788",
+      "icon": "📁",
+      "name": "科学上网",
+      "order": 20,
+      "sites": []
+    },
+    {
+      "id": "category-1765347632028",
+      "icon": "📁",
+      "name": "PT站点及工具",
+      "order": 21,
+      "sites": []
+    },
+    {
+      "id": "category-1765347692156",
+      "icon": "📁",
+      "name": "精彩文章",
+      "order": 22,
+      "sites": []
     }
   ],
   "title": "一粒米"
