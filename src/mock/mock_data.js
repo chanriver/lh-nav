@@ -322,10 +322,67 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765328134928",
+      "icon": "📁",
+      "name": "政府部门",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1765328336352",
+          "name": "住房建设部",
+          "url": "https://www.mohurd.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mohurd.gov.cn"
+        },
+        {
+          "id": "site-1765328423127",
+          "name": "福建省住房和城乡建设厅",
+          "url": "https://zjt.fujian.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zjt.fujian.gov.cn"
+        },
+        {
+          "id": "site-1765328477591",
+          "name": "厦门市住房和建设局",
+          "url": "https://szjj.xm.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/szjj.xm.gov.cn"
+        },
+        {
+          "id": "site-1765328763855",
+          "name": "厦门市商事主体登记及信用信息公示平台",
+          "url": "https://credit.scjg.xm.gov.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765328788638",
+          "name": "国务院",
+          "url": "https://www.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.gov.cn"
+        },
+        {
+          "id": "site-1765328812070",
+          "name": "厦门市海沧区政府",
+          "url": "https://www.haicang.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.haicang.gov.cn"
+        },
+        {
+          "id": "site-1765328832678",
+          "name": "应急管理部",
+          "url": "https://www.mem.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mem.gov.cn"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "cloudflare",
@@ -382,7 +439,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "github",
@@ -453,7 +510,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "figma",
@@ -489,7 +546,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -553,7 +610,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "mdn",
@@ -589,7 +646,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "bilibili",
@@ -625,7 +682,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "notion",
@@ -661,7 +718,7 @@ export const mockData = {
       "id": "category-1765250380345",
       "icon": "📁",
       "name": "资源素材",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "site-1765250502160",
@@ -676,7 +733,7 @@ export const mockData = {
       "id": "category-1765255512557",
       "icon": "📁",
       "name": "应用软件",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "site-1765255677453",
@@ -684,63 +741,6 @@ export const mockData = {
           "url": "https://www.puresys.net/",
           "description": "Puresys是一个分享Ghost系统与PC软件资源的博客，致力于免费提供优质的去广告绿色软件、常用的破解优化软件，以及各类经验教程。",
           "icon": "https://imgbed.361026.dpdns.org/file/1765255647811_Puresys.png"
-        }
-      ]
-    },
-    {
-      "id": "category-1765328134928",
-      "icon": "📁",
-      "name": "政府部门",
-      "order": 6,
-      "sites": [
-        {
-          "id": "site-1765328336352",
-          "name": "住房建设部",
-          "url": "https://www.mohurd.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.mohurd.gov.cn"
-        },
-        {
-          "id": "site-1765328423127",
-          "name": "福建省住房和城乡建设厅",
-          "url": "https://zjt.fujian.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/zjt.fujian.gov.cn"
-        },
-        {
-          "id": "site-1765328477591",
-          "name": "厦门市住房和建设局",
-          "url": "https://szjj.xm.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/szjj.xm.gov.cn"
-        },
-        {
-          "id": "site-1765328530791",
-          "name": "国务院",
-          "url": "https://www.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.gov.cn"
-        },
-        {
-          "id": "site-1765328575607",
-          "name": "海沧区政府",
-          "url": "https://www.haicang.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.haicang.gov.cn"
-        },
-        {
-          "id": "site-1765328617415",
-          "name": "应急管理部",
-          "url": "https://www.mem.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.mem.gov.cn"
-        },
-        {
-          "id": "site-1765328673534",
-          "name": "厦门市商事主体登记及信用信息公示平台",
-          "url": "https://credit.scjg.xm.gov.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/credit.scjg.xm.gov.cn"
         }
       ]
     }
