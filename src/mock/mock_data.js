@@ -843,6 +843,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         }
       ]
+    },
+    {
+      "id": "category-1765347413493",
+      "icon": "📁",
+      "name": "Github&Cloudflare项目",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "一粒米"
