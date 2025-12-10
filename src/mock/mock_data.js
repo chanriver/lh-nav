@@ -713,6 +713,34 @@ export const mockData = {
           "url": "https://szjj.xm.gov.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/szjj.xm.gov.cn"
+        },
+        {
+          "id": "site-1765328530791",
+          "name": "国务院",
+          "url": "https://www.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.gov.cn"
+        },
+        {
+          "id": "site-1765328575607",
+          "name": "海沧区政府",
+          "url": "https://www.haicang.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.haicang.gov.cn"
+        },
+        {
+          "id": "site-1765328617415",
+          "name": "应急管理部",
+          "url": "https://www.mem.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mem.gov.cn"
+        },
+        {
+          "id": "site-1765328673534",
+          "name": "厦门市商事主体登记及信用信息公示平台",
+          "url": "https://credit.scjg.xm.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/credit.scjg.xm.gov.cn"
         }
       ]
     }
