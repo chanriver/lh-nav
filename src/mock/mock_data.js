@@ -686,6 +686,35 @@ export const mockData = {
           "icon": "https://imgbed.361026.dpdns.org/file/1765255647811_Puresys.png"
         }
       ]
+    },
+    {
+      "id": "category-1765328134928",
+      "icon": "📁",
+      "name": "政府部门",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1765328336352",
+          "name": "住房建设部",
+          "url": "https://www.mohurd.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mohurd.gov.cn"
+        },
+        {
+          "id": "site-1765328423127",
+          "name": "福建省住房和城乡建设厅",
+          "url": "https://zjt.fujian.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zjt.fujian.gov.cn"
+        },
+        {
+          "id": "site-1765328477591",
+          "name": "厦门市住房和建设局",
+          "url": "https://szjj.xm.gov.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/szjj.xm.gov.cn"
+        }
+      ]
     }
   ],
   "title": "一粒米"
