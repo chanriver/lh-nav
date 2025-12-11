@@ -885,6 +885,13 @@ export const mockData = {
           "url": "https://blog.cmliussss.com/",
           "description": "EDT2.0项目的作者",
           "icon": "https://www.faviconextractor.com/favicon/blog.cmliussss.com"
+        },
+        {
+          "id": "site-1765436803737",
+          "name": "秋名山博客",
+          "url": "https://blog.qmsdh.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.qmsdh.com"
         }
       ]
     },
