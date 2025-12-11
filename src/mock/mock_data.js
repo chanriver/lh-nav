@@ -754,15 +754,15 @@ export const mockData = {
           "id": "site-1765329001693",
           "name": "qBittorrent7374",
           "url": "http://zlwnas.mycloudnas.com:7374",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/zlwnas.mycloudnas.com:7374"
+          "description": "通过NAS部署的qBittorrent项目，端口为7374",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765432601477_QB.png"
         },
         {
           "id": "site-1765339735801",
           "name": "qBittorrent6364",
           "url": "http://361026.xyz:6364",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/361026.xyz:6364"
+          "description": "通过NAS部署的DOCKER项目，端口为6364",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765432601477_QB.png"
         },
         {
           "id": "site-1765339786209",
@@ -782,29 +782,29 @@ export const mockData = {
           "id": "site-1765339836624",
           "name": "TRANSMISSION9093",
           "url": "http://361026.xyz:9093",
-          "description": "",
-          "icon": ""
+          "description": "通过NAS部署的TRANSMISSION项目，端口为9093",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765432606530_TR.png"
         },
         {
           "id": "site-1765339862632",
           "name": "TRANSMISSION19093",
           "url": "http://361026.xyz:19093",
-          "description": "",
-          "icon": ""
+          "description": "通过NAS部署的TRANSMISSION项目，端口为19093",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765432606530_TR.png"
         },
         {
           "id": "site-1765339886688",
           "name": "MOVIEPILOT3200",
           "url": "http://361026.xyz:3202",
-          "description": "",
-          "icon": ""
+          "description": "通过NAS部署的DOCKER项目，为PT工具，端口为3202",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765433061254_mp.png"
         },
         {
           "id": "site-1765339947328",
           "name": "moviepilot3100",
           "url": "http://361026.xyz:3102",
-          "description": "",
-          "icon": ""
+          "description": "通过NAS部署的DOCKER项目，为PT工具，端口为3102",
+          "icon": "https://imgbed.361026.dpdns.org/file/1765433061254_mp.png"
         }
       ]
     },
