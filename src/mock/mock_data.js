@@ -741,6 +741,13 @@ export const mockData = {
           "url": "https://www.puresys.net/",
           "description": "Puresys是一个分享Ghost系统与PC软件资源的博客，致力于免费提供优质的去广告绿色软件、常用的破解优化软件，以及各类经验教程。",
           "icon": "https://imgbed.361026.dpdns.org/file/1765255647811_Puresys.png"
+        },
+        {
+          "id": "site-1765433454731",
+          "name": "Lucky666",
+          "url": "https://lucky666.cn/",
+          "description": "软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书",
+          "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
         }
       ]
     },
@@ -768,8 +775,8 @@ export const mockData = {
           "id": "site-1765339786209",
           "name": "LUCKY",
           "url": "http://361026.xyz:16601",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/361026.xyz:16601"
+          "description": "软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书",
+          "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
         },
         {
           "id": "site-1765339804272",
