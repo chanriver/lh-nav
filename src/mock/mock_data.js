@@ -942,6 +942,13 @@ export const mockData = {
           "url": "https://panhub.361026.dpdns.org/",
           "description": "用一个搜索框，搜遍阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。即搜即得、聚合去重、免费开源、零广告、轻量部署",
           "icon": "https://www.faviconextractor.com/favicon/panhub.shenzjd.com"
+        },
+        {
+          "id": "site-1765443946050",
+          "name": "pansou",
+          "url": "https://so.252035.xyz/",
+          "description": "PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。",
+          "icon": "https://www.faviconextractor.com/favicon/so.252035.xyz"
         }
       ]
     }
