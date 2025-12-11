@@ -46,7 +46,7 @@ export const mockData = {
           "name": "谷歌",
           "url": "https://www.google.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
+          "icon": "https://imgbed.361026.dpdns.org/file/1765444470323_google.png"
         }
       ]
     },
