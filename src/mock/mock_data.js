@@ -849,7 +849,22 @@ export const mockData = {
       "icon": "📁",
       "name": "Github&Cloudflare项目",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765432432110",
+          "name": "CF图床",
+          "url": "https://imgbed.361026.dpdns.org/",
+          "description": "利用CF搭建的自用图床项目",
+          "icon": "https://www.faviconextractor.com/favicon/imgbed.361026.dpdns.org"
+        },
+        {
+          "id": "site-1765432522622",
+          "name": "EDT项目-126zlw",
+          "url": "https://zlw.361026.dpdns.org/admin",
+          "description": "利用CM大佬项目EDT2.0搭建的节点项目管理后台",
+          "icon": "https://www.faviconextractor.com/favicon/zlw.361026.dpdns.org"
+        }
+      ]
     },
     {
       "id": "category-1765347501580",
