@@ -915,6 +915,21 @@ export const mockData = {
       "name": "精彩文章",
       "order": 22,
       "sites": []
+    },
+    {
+      "id": "category-1765442158632",
+      "icon": "📁",
+      "name": "网盘搜索",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765442356727",
+          "name": "PANHUB",
+          "url": "https://panhub.shenzjd.com/",
+          "description": "用一个搜索框，搜遍阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。即搜即得、聚合去重、免费开源、零广告、轻量部署",
+          "icon": "https://www.faviconextractor.com/favicon/panhub.shenzjd.com"
+        }
+      ]
     }
   ],
   "title": "一粒米"
