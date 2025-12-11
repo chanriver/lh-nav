@@ -870,6 +870,20 @@ export const mockData = {
           "url": "https://zlw.361026.dpdns.org/admin",
           "description": "利用CM大佬项目EDT2.0搭建的节点项目管理后台",
           "icon": "https://www.faviconextractor.com/favicon/zlw.361026.dpdns.org"
+        },
+        {
+          "id": "site-1765443635483",
+          "name": "panhub项目GITHUB",
+          "url": "https://github.com/chanriver/panhub.shenzjd.com",
+          "description": "用一个搜索框，搜遍阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。即搜即得、聚合去重、免费开源、零广告、轻量部署。",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1765443690491",
+          "name": "panhub项目CF",
+          "url": "https://panhub.361026.dpdns.org/",
+          "description": "用一个搜索框，搜遍阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。即搜即得、聚合去重、免费开源、零广告、轻量部署。",
+          "icon": "https://www.faviconextractor.com/favicon/panhub.361026.dpdns.org"
         }
       ]
     },
@@ -924,8 +938,8 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1765442356727",
-          "name": "PANHUB",
-          "url": "https://panhub.shenzjd.com/",
+          "name": "PANHUB自建搜索",
+          "url": "https://panhub.361026.dpdns.org/",
           "description": "用一个搜索框，搜遍阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。即搜即得、聚合去重、免费开源、零广告、轻量部署",
           "icon": "https://www.faviconextractor.com/favicon/panhub.shenzjd.com"
         }
