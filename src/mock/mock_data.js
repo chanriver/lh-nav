@@ -878,7 +878,15 @@ export const mockData = {
       "icon": "📁",
       "name": "大佬博客",
       "order": 19,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765436762600",
+          "name": "CM博客",
+          "url": "https://blog.cmliussss.com/",
+          "description": "EDT2.0项目的作者",
+          "icon": "https://www.faviconextractor.com/favicon/blog.cmliussss.com"
+        }
+      ]
     },
     {
       "id": "category-1765347602788",
