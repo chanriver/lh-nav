@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://www.ping0.cc/",
           "description": "专业的IP干净度检测工具",
           "icon": "https://www.faviconextractor.com/favicon/www.ping0.cc"
+        },
+        {
+          "id": "site-1765765016232",
+          "name": "https://ip.skk.moe/",
+          "url": "https://ip.skk.moe/",
+          "description": "查看你当前网络的 IP 地址、位置信息 和 网络连通性",
+          "icon": "https://www.faviconextractor.com/favicon/ip.skk.moe"
         }
       ]
     },
