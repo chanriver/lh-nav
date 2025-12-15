@@ -182,6 +182,13 @@ export const mockData = {
           "url": "https://addresschina.github.io/",
           "description": "用于各国地址的生成",
           "icon": "https://www.faviconextractor.com/favicon/addresschina.github.io"
+        },
+        {
+          "id": "site-1765764901161",
+          "name": "ping0",
+          "url": "https://www.ping0.cc/",
+          "description": "专业的IP干净度检测工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.ping0.cc"
         }
       ]
     },
