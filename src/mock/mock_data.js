@@ -447,6 +447,13 @@ export const mockData = {
           "url": "https://lucky666.cn/",
           "description": "软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书",
           "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
+        },
+        {
+          "id": "site-1765765796700",
+          "name": "小鱼儿系统",
+          "url": "https://www.yrxitong.com/",
+          "description": "小鱼儿yr系统网站主要用来记录小鱼儿yr实际维修过程中的经验和教程发表，以及分享各种封装系统或者重装系统，装机，电脑维修等等过程中用到的系统镜像和软件资源。",
+          "icon": "https://www.faviconextractor.com/favicon/www.yrxitong.com"
         }
       ]
     },
