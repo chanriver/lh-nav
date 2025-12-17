@@ -634,7 +634,15 @@ export const mockData = {
       "icon": "📁",
       "name": "PT站点及工具",
       "order": 15,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765940431867",
+          "name": "蜂巢论坛",
+          "url": "https://pting.club/",
+          "description": "蜂巢论坛不是pt站，是pt人的交流论坛，主要功能有：求邀发邀、日常交流、观影推荐、技术交流、插件&美化、新闻咨询等等。",
+          "icon": "https://www.faviconextractor.com/favicon/pting.club"
+        }
+      ]
     },
     {
       "id": "category-1765442158632",
