@@ -583,6 +583,13 @@ export const mockData = {
           "url": "https://github.com/chanriver/pansou",
           "description": "PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1766048706660",
+          "name": "cfnew",
+          "url": "https://cfnew.361026.dpdns.org/cfnew",
+          "description": "一个在CF中搭建的获取节点的项目",
+          "icon": "https://www.faviconextractor.com/favicon/cfnew.361026.dpdns.org"
         }
       ]
     },
