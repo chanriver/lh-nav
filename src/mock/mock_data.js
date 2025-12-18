@@ -469,6 +469,13 @@ export const mockData = {
           "url": "https://www.iconfont.cn/home/index",
           "description": "由阿里巴巴矢量图标库提供的一种开放式的矢量图标管理和交流平台，提供了丰富的矢量图标资源和方便的管理和下载服务。",
           "icon": "https://imgbed.361026.dpdns.org/file/1765252745918_iconfont图标.png"
+        },
+        {
+          "id": "site-1766048573150",
+          "name": "pixabay",
+          "url": "https://pixabay.com/",
+          "description": "一个充满活力的创意设计社区，专注分享无版权的图像、视频和音乐素材，你可以在这里看到来自世界各地的朋友分享的图片、视频和音乐、音效、以及插图、矢量图形，令人惊叹的是超过 240 万高质量的媒体素材库等你去发掘，并且免费个人以及商业用途，完全不用担心版权问题，所有的资源都是以知识共享组织 CC0 协议发布，并且丰富海量的高质量设计资源，可以说是从事设计行业的收藏必备的素材库。",
+          "icon": "https://www.faviconextractor.com/favicon/pixabay.com"
         }
       ]
     },
