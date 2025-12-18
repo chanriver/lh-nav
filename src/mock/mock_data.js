@@ -196,6 +196,13 @@ export const mockData = {
           "url": "https://ip.skk.moe/",
           "description": "查看你当前网络的 IP 地址、位置信息 和 网络连通性",
           "icon": "https://www.faviconextractor.com/favicon/ip.skk.moe"
+        },
+        {
+          "id": "site-1766051063260",
+          "name": "站长之家",
+          "url": "https://www.chinaz.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.chinaz.com"
         }
       ]
     },
