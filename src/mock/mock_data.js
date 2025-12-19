@@ -210,6 +210,13 @@ export const mockData = {
           "url": "https://kaic.hidns.co/",
           "description": "CF反代可用性检测工具集\n一站式检测各类反代CF服务的可用性，确保您的网络连接畅通无阻",
           "icon": "https://www.faviconextractor.com/favicon/kaic.hidns.co"
+        },
+        {
+          "id": "site-1766131443909",
+          "name": "代码混淆站",
+          "url": "https://obfuscator.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/obfuscator.io"
         }
       ]
     },
