@@ -889,7 +889,7 @@ export const mockData = {
           "id": "site-1766127401758",
           "name": "pp.ua域名注册",
           "url": "https://nic.ua/en",
-          "description": "账号，chanriver@126.com,同NAS",
+          "description": "账号，126,同NAS",
           "icon": "https://www.faviconextractor.com/favicon/nic.ua"
         }
       ]
