@@ -97,3 +97,57 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/* --- 快捷添加壁纸与透明感 --- */
+
+/* 1. 作用于整个网页背景 */
+body {
+  margin: 0;
+  /* 使用 Bing 每日壁纸，每天自动更新 */
+  background: url('https://api.dujin.org/bing/1920.php') no-repeat center center fixed !important;
+  background-size: cover !important;
+}
+
+/* 2. 让原本的白色背景变透明 */
+#app, 
+header, 
+main, 
+.container {
+  background-color: transparent !important;
+}
+
+/* 3. 增加一层半透明蒙版，让内容可读 */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* 0.3 代表 30% 的黑影，数值越大背景越暗 */
+  z-index: -1;
+}
+
+/* 4. 将原本的文字改为白色（防止在背景下看不清） */
+:root {
+  --color-text: #ffffff !important;
+  --color-heading: #ffffff !important;
+  --color-background: transparent !important;
+}
+
+/* 5. 为你的卡片或项目添加毛玻璃效果 */
+/* 这里的 .item 是你 WelcomeItem.vue 里的类名 */
+.item {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 10px;
+  transition: transform 0.2s ease;
+}
+
+.item:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.2) !important;
+}
