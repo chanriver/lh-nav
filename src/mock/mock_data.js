@@ -203,6 +203,13 @@ export const mockData = {
           "url": "https://www.chinaz.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.chinaz.com"
+        },
+        {
+          "id": "site-1766128181420",
+          "name": "PROXYIP检测工具",
+          "url": "https://kaic.hidns.co/",
+          "description": "CF反代可用性检测工具集\n一站式检测各类反代CF服务的可用性，确保您的网络连接畅通无阻",
+          "icon": "https://www.faviconextractor.com/favicon/kaic.hidns.co"
         }
       ]
     },
