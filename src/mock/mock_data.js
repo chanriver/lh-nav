@@ -37,7 +37,7 @@ export const mockData = {
         {
           "id": "site-1765249156926",
           "name": "威联通NAS",
-          "url": "http://361026.xyz:5000",
+          "url": "https://nas.031133.xyz",
           "description": "个人的NAS设备",
           "icon": "https://imgbed.361026.dpdns.org/file/1765249102422_威联通NAS图标.png"
         },
