@@ -662,6 +662,20 @@ export const mockData = {
           "url": "https://cfnew.031133.xyz",
           "description": "github中的项目byJoey/cfnew，在CF中创建的一个科学上网的节点",
           "icon": "https://www.faviconextractor.com/favicon/cfnew.031133.xyz"
+        },
+        {
+          "id": "site-1766630927892",
+          "name": "EDT项目----126邮箱创建",
+          "url": "https://zlw.031133.xyz",
+          "description": "利用GITHUB项目cmliu/edgetunnel，在CF中创建的一个节点项目，是126邮箱创建的",
+          "icon": ""
+        },
+        {
+          "id": "site-1766631044132",
+          "name": "126邮箱创建的EDT项目",
+          "url": "https://126.031133.xyz",
+          "description": "也是在126邮箱下创建的一个节点，同zlw.031133.xyz，只是优选不一样",
+          "icon": "https://www.faviconextractor.com/favicon/zlw.031133.xyz"
         }
       ]
     },
