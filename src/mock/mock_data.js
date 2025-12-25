@@ -655,7 +655,15 @@ export const mockData = {
       "icon": "📁",
       "name": "科学上网",
       "order": 13,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1766630772189",
+          "name": "cfnew",
+          "url": "https://cfnew.031133.xyz",
+          "description": "github中的项目byJoey/cfnew，在CF中创建的一个科学上网的节点",
+          "icon": "https://www.faviconextractor.com/favicon/cfnew.031133.xyz"
+        }
+      ]
     },
     {
       "id": "category-1765347692156",
