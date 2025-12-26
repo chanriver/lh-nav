@@ -37,7 +37,7 @@ export const mockData = {
         {
           "id": "site-1765249156926",
           "name": "威联通NAS",
-          "url": "https://nas.031133.xyz",
+          "url": "https://nas.361026.dpdns.org",
           "description": "个人的NAS设备",
           "icon": "https://imgbed.361026.dpdns.org/file/1765249102422_威联通NAS图标.png"
         },
@@ -509,56 +509,56 @@ export const mockData = {
         {
           "id": "site-1765329001693",
           "name": "qBittorrent7373",
-          "url": "https://qb7373.031133.xyz",
+          "url": "https://qb7373.361026.dpdns.org",
           "description": "通过NAS部署的qBittorrent项目，端口为7374",
           "icon": "https://imgbed.361026.dpdns.org/file/1765432601477_QB.png"
         },
         {
           "id": "site-1765339735801",
           "name": "qBittorrent6364",
-          "url": "https://qb6363.031133.xyz",
+          "url": "https://qb6363.361026.dpdns.org",
           "description": "通过NAS部署的DOCKER项目，端口为6364",
           "icon": "https://imgbed.361026.dpdns.org/file/1765432601477_QB.png"
         },
         {
           "id": "site-1765339786209",
           "name": "LUCKY",
-          "url": "https://lucky.031133.xyz",
+          "url": "https://lucky.361026.dpdns.org",
           "description": "软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书",
           "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
         },
         {
           "id": "site-1765339804272",
           "name": "V2RAYA",
-          "url": "https://v2raya.031133.xyz",
+          "url": "https://v2raya.361026.dpdns.org",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1765339836624",
           "name": "TRANSMISSION9091",
-          "url": "https://tr9091.031133.xyz",
+          "url": "https://tr9091.361026.dpdns.org",
           "description": "通过NAS部署的TRANSMISSION项目，端口为9093",
           "icon": "https://imgbed.361026.dpdns.org/file/1765432606530_TR.png"
         },
         {
           "id": "site-1765339862632",
           "name": "TRANSMISSION19091",
-          "url": "https://tr19091.031133.xyz",
+          "url": "https://tr19091.361026.dpdns.org",
           "description": "通过NAS部署的TRANSMISSION项目，端口为19093",
           "icon": "https://imgbed.361026.dpdns.org/file/1765432606530_TR.png"
         },
         {
           "id": "site-1765339886688",
           "name": "MOVIEPILOT3200",
-          "url": "https://mp3200.031133.xyz",
+          "url": "https://mp3200.361026.dpdns.org",
           "description": "通过NAS部署的DOCKER项目，为PT工具，端口为3202",
           "icon": "https://imgbed.361026.dpdns.org/file/1765433061254_mp.png"
         },
         {
           "id": "site-1765339947328",
           "name": "moviepilot3100",
-          "url": "https://mp3100.031133.xyz",
+          "url": "https://mp3100.361026.dpdns.org",
           "description": "通过NAS部署的DOCKER项目，为PT工具，端口为3102",
           "icon": "https://imgbed.361026.dpdns.org/file/1765433061254_mp.png"
         }
@@ -666,23 +666,23 @@ export const mockData = {
         {
           "id": "site-1766630772189",
           "name": "cfnew",
-          "url": "https://cfnew.031133.xyz",
+          "url": "https://cfnew.361026.dpdns.org",
           "description": "github中的项目byJoey/cfnew，在CF中创建的一个科学上网的节点",
-          "icon": "https://www.faviconextractor.com/favicon/cfnew.031133.xyz"
+          "icon": "https://www.faviconextractor.com/favicon/cfnew.361026.dpdns.org"
         },
         {
           "id": "site-1766630927892",
           "name": "EDT项目----126邮箱创建",
-          "url": "https://zlw.031133.xyz",
+          "url": "https://zlw.361026.dpdns.org",
           "description": "利用GITHUB项目cmliu/edgetunnel，在CF中创建的一个节点项目，是126邮箱创建的",
           "icon": ""
         },
         {
           "id": "site-1766631044132",
           "name": "126邮箱创建的EDT项目",
-          "url": "https://126.031133.xyz",
-          "description": "也是在126邮箱下创建的一个节点，同zlw.031133.xyz，只是优选不一样",
-          "icon": "https://www.faviconextractor.com/favicon/zlw.031133.xyz"
+          "url": "https://126.361026.dpdns.org",
+          "description": "也是在126邮箱下创建的一个节点，同zlw.361026.dpdns.org，只是优选不一样",
+          "icon": "https://www.faviconextractor.com/favicon/zlw.361026.dpdns.org"
         }
       ]
     },
