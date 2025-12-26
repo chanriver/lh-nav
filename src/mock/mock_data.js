@@ -611,6 +611,13 @@ export const mockData = {
           "url": "https://cfnew.361026.dpdns.org/cfnew",
           "description": "一个在CF中搭建的获取节点的项目",
           "icon": "https://www.faviconextractor.com/favicon/cfnew.361026.dpdns.org"
+        },
+        {
+          "id": "site-1766708939493",
+          "name": "优选IP收集器25个IP",
+          "url": "https://yxip.361026.dpdns.org/",
+          "description": "一个基于 Cloudflare Workers 的优选 CF IP 地址收集与测速工具，自动从多个公开来源收集 Cloudflare IP 地址，并提供可视化界面和测速功能。",
+          "icon": "https://www.faviconextractor.com/favicon/yxip.361026.dpdns.org"
         }
       ]
     },
